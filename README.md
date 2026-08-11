@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Preview do projeto](./preview.png)
+![Preview do projeto](./src/image/preview.png)
 
 </div>
 
