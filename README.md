@@ -191,9 +191,6 @@ O projeto também possibilitou praticar a organização de estilos utilizando **
 
 [![Deploy](https://img.shields.io/badge/Ver%20Projeto-Vercel-black?style=for-the-badge\&logo=vercel)](https://nike-promo.vercel.app/)
 
-**🔗 Acessar projeto:**
-[https://ebac-motors-rouge.vercel.app/](https://nike-promo.vercel.app/)
-
 ---
 
 ## 👨‍💻 Autor
