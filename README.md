@@ -31,7 +31,6 @@ O projeto apresenta uma página promocional com navegação por categorias, info
 
 A estrutura utiliza **HTML5**, **SCSS/Sass** e **JavaScript**, com o **Parcel** responsável pelo ambiente de desenvolvimento e processo de build.
 
-> 🚧 **Este projeto ainda está em desenvolvimento e poderá receber novas melhorias e funcionalidades.**
 
 ---
 
