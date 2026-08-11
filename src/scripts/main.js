@@ -18,8 +18,8 @@ const contaAsHoras = setInterval(function(){
     //minutos 1000*60//
     //hora 1000*60*60//
     //dia 1000*60*60*24//
-    const diasAteOEvento = Math.floor(distanciaAteOEvento / (1000 * 60 * 60 * 28))
-    const horasAteOEvento = Math.floor(distanciaAteOEvento % (1000 * 60 * 60 * 28) / (1000 * 60 * 60))
+    const diasAteOEvento = Math.floor(distanciaAteOEvento / (1000 * 60 * 60 * 24))
+    const horasAteOEvento = Math.floor(distanciaAteOEvento % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
     const minutossAteOEvento = Math.floor((distanciaAteOEvento % (1000 * 60 * 60)) / (1000 * 60))
     const segundosAteOEvento = Math.floor((distanciaAteOEvento % (1000*60)) / (1000))
 
