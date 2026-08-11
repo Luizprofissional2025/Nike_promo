@@ -182,25 +182,6 @@ O projeto também possibilitou praticar a organização de estilos utilizando **
 
 ---
 
-## 🚧 Em desenvolvimento
-
-O projeto ainda está **em desenvolvimento** e poderá receber novas melhorias.
-
-### 🔮 Possíveis melhorias futuras
-
-* 🛒 Implementação de uma estrutura de catálogo de produtos;
-* 🔗 Ativação dos links de navegação;
-* 🛍️ Inclusão de informações individuais dos produtos;
-* 📱 Aprimoramentos na experiência mobile;
-* 🎨 Refinamento da interface visual;
-* ⚡ Otimização de imagens e performance;
-* ♿ Melhorias de acessibilidade;
-* 🔎 Melhorias de SEO;
-* 🚀 Publicação em uma plataforma de deploy.
-
-> **Importante:** os itens acima são sugestões futuras e não representam funcionalidades atualmente implementadas.
-
----
 
 ## 🌐 Projeto
 
