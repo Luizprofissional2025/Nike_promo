@@ -187,9 +187,12 @@ O projeto também possibilitou praticar a organização de estilos utilizando **
 
 [![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Luizprofissional2025/Nike_promo)
 
-### 🚀 Deploy
+### 👀 Preview / Deploy
 
-**Ainda não disponível**
+[![Deploy](https://img.shields.io/badge/Ver%20Projeto-Vercel-black?style=for-the-badge\&logo=vercel)](https://nike-promo.vercel.app/)
+
+**🔗 Acessar projeto:**
+[https://ebac-motors-rouge.vercel.app/](https://nike-promo.vercel.app/)
 
 ---
 
