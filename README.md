@@ -6,7 +6,6 @@
 
 **Projeto de Desenvolvimento Web focado na criação de uma página promocional inspirada em uma loja Nike.**
 
-🚧 **EM DESENVOLVIMENTO**
 
 </div>
 
